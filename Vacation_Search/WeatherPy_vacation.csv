@@ -158,7 +158,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 423,San Felipe,VE,81.99,few clouds,10.34,-68.74,Posada Llovizna Rodríguez
 424,Labelle,US,87.01,overcast clouds,26.76,-81.44,La Belle Motel
 425,Maine-Soroa,NE,82.54,clear sky,13.21,12.02,
-427,Okakarara,,78.3,overcast clouds,-20.58,17.43,"Okahitua, Omaboro City"
 428,Sinnar,SD,88.68,clear sky,13.57,33.57,فندق الرشيد
 431,Bambous Virieux,MU,73.4,scattered clouds,-20.34,57.76,Casa Tia Villa
 434,Paraiso,CR,73.4,broken clouds,9.84,-83.87,Rinconcito Verde
@@ -168,7 +167,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 440,Hobyo,SO,79.2,scattered clouds,5.35,48.53,Osmani Hotel
 441,Santa Cruz De La Palma,ES,71.6,scattered clouds,28.68,-17.76,H10 Taburiente Playa
 442,Buin,CL,80.6,clear sky,-33.73,-70.75,Paihuen
-445,Ongandjera,,78.51,scattered clouds,-17.88,15.07,Onesto Guesthouse
 449,Maceio,BR,80.6,clear sky,-9.67,-35.74,Mercure Maceio Pajucara Hotel
 451,Takoradi,GH,78.03,light rain,4.88,-1.76,Raybow International Hotel
 452,Chum Phae,TH,70.84,overcast clouds,16.54,102.1,Major Grand
@@ -211,7 +209,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 558,Makakilo City,US,82.4,few clouds,21.35,-158.09,Marriott's Ko Olina Beach Club
 559,Isabela,PH,78.73,light rain,6.71,121.97,Isawad Resort
 562,Kokoda,PG,76.93,overcast clouds,-8.88,147.74,Daito Guest House
-564,Rehoboth,,76.95,overcast clouds,-23.32,17.08,Noble Luminous Accommodation
 568,Ejido,VE,73.9,light rain,8.55,-71.24,Bora Bora Nails & Spa C.A.
 569,Paita,PE,77.0,clear sky,-5.09,-81.11,Hotel Náutico de Paita
 570,Dhaka,BD,80.6,haze,23.71,90.41,FARS Hotel & Resorts
@@ -236,7 +233,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 622,Odienne,CI,75.33,overcast clouds,9.51,-7.57,Oustaz Vame DIAKITE
 623,Tomatlan,MX,87.26,broken clouds,19.93,-105.25,Norma franco
 626,Daloa,CI,75.45,overcast clouds,6.88,-6.45,Imans Hotel Daloa
-627,Aranos,,73.6,broken clouds,-24.13,19.12,Ley-Lia Guest House
 628,Houma,US,81.0,scattered clouds,29.6,-90.72,Courtyard by Marriott Houma
 632,Hurghada,EG,78.8,clear sky,27.26,33.81,Sea Star Beau Rivage Hotel
 634,Lakatoro,VU,77.0,light intensity shower rain,-16.1,167.42,Lakatoro Palm Lodge
@@ -258,7 +254,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 686,Raga,SS,73.24,broken clouds,8.46,25.68,
 687,Kieta,PG,81.54,broken clouds,-6.22,155.63,
 690,Olinda,BR,82.4,broken clouds,-8.01,-34.86,Hotel 5 Sóis
-691,Rundu,,76.03,clear sky,-17.93,19.77,Millennia Estate
 692,Surt,LY,72.36,clear sky,31.21,16.59,City Hotel
 693,Nioro,GM,82.87,clear sky,13.35,-15.75,
 700,San Rafael,AR,78.35,scattered clouds,-34.62,-68.33,Hotel San Rafael
